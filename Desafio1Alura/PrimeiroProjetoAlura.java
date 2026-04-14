@@ -1,4 +1,4 @@
-package PastaPrimeiroProjetoAlura;
+package Desafio1Alura;
 import java.util.Scanner;
 
 public class PrimeiroProjetoAlura {
