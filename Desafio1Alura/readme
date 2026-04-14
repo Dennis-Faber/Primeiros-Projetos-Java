@@ -1,0 +1,6 @@
+Este projeto, foi meu primeiro desafio em java, proposto pela Alura.
+Este código, roda no terminal, e ele pede alguns dados iniciais utilizando o método Scanner, e esses dados ficam guardados nas variáveis.
+Eu adicionei uma validação, e usei o método while para solicitar o tipo de conta bancária, para garantir apenas as opções corretas sejam aceitas pelo programa.
+Caso o usuário digite um número fora do esperado, o programa avisa que o tipo de conta não é válido, e solicita que ele digite um o tipo correto de conta (corrente (1) ou poupança (2)).
+Após a inserção dos dados iniciais, usei o switch case para criar um menu, onde o usuário pode ver o saldo (1), receber valor (2), transferir valor (3), ou sair da aplicação (4).
+Além disso, adicionei condicionais usando if, para garantir que não seja possível receber, nem transferir valores negativos.
