@@ -1,6 +1,7 @@
+package PastaPrimeiroProjetoAlura;
 import java.util.Scanner;
 
-public class Desafio1Alura {
+public class PrimeiroProjetoAlura {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String tipoDeConta = "abc";
